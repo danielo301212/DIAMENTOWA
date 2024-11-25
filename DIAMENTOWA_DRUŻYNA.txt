@@ -1,7 +1,7 @@
 id="plugin.program.DIAMENTOWA" 
 version="8.0.3" 
 zip="https://shorturl.at/dAIRV" 
-name="PRIV" 
+name="DIAMENTOWA" 
 version="1.0.2" 
 url="https://www.dropbox.com/scl/fi/x4hminpd9k9k7i13ww5ge/WI-TA-DIAMENTOWA-1.0.2.zip?rlkey=6xlup1dixjazxrpmmal9i893a&st=hiicc69f&dl=1"
 minor="http://"
